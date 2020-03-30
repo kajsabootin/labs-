@@ -26,6 +26,7 @@ export const App = () => {
               mainColor={mainColor}
               lightColor={lightColor}
               btnColor={btnColor}
+              subColor={subColor}
             />
           </Route>
 

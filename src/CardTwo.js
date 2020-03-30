@@ -1,5 +1,5 @@
 import React from 'react'
-import { CardOne } from 'react-router-dom'
+//import { CardOne } from 'react-router-dom'
 //import "./Card.css"
 import "./index.css"
 
